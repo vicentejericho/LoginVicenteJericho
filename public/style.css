@@ -84,7 +84,7 @@ form p
 }
 .btn-field button
 {
-    flex-basis: 45%;
+    flex-basis: 100%;
     font-weight: bold;
     font-size: large;
     background: #3ac3cf9c;
